@@ -1,0 +1,32 @@
+{
+  "name": "intro_node",
+  "version": "1.0.0",
+  "description": "Intro to Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosminDCG/intro_node.git"
+  },
+  "author": "Cosmin Dimisca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosminDCG/intro_node/issues"
+  },
+  "homepage": "https://github.com/cosminDCG/intro_node#readme"
+}
