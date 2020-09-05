@@ -44,6 +44,19 @@ intro_node
 - Rulam programul
 
 ## Exercitiul 4
+- Creati structura de foldere
+```
+intro_node
+  |_ app
+      |_ controllers
+      |_ dto
+      |_ services
+      |_ utils
+```
+- In folderul utils vom crea fisierul **Utils.js**
+- Folosindu-ne de exercitile 2 si 3, vom crea 3 metode care sa ne ajute sa simulam baza de date cu care vom lucra in continuare
+
+## Exercitiul 5
 - Implemenati si voi functionalitatea de register, pas cu pas
 - Dupa modelul de la register, facem si loginul, dupa cum urmeaza:
     - Cream ruta
@@ -51,9 +64,9 @@ intro_node
     - In serviciu, verificam daca userul exista (in caz contrar creati si aruncati o eroare), daca exista, verificati parola (daca nu este corecta, creati si aruncati o eroare)
     - Daca toate conditiile sunt indeplinite, generati un token
 
-## Exercitiul 5
+## Exercitiul 6
 - Implementati si voi functionalitatea de adaugare postare
 
-## Exercitiul 6
+## Exercitiul 7
 - Dupa modelul de la exercitiul 5, creati functionalitatea de getAllPosts
 - Verificati atat din postman, cat si apeland din FE
