@@ -68,5 +68,5 @@ intro_node
 - Implementati si voi functionalitatea de adaugare postare
 
 ## Exercitiul 7
-- Dupa modelul de la exercitiul 5, creati functionalitatea de getAllPosts
+- Dupa modelul de la exercitiul 6, creati functionalitatea de getAllPosts
 - Verificati atat din postman, cat si apeland din FE
